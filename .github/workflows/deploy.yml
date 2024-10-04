@@ -1,4 +1,4 @@
-name: Node.js CI25
+name: Node.js CI26
 
 on:
   push:
